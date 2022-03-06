@@ -44,8 +44,7 @@ ${informasibot}
   body: '│ • %cmd %islimit %isPremium',
   footer: '╰────\n',
   after: `
-*%npmname@^%version*
-${'```%npmdesc```'}
+© NdaaBotz
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
@@ -165,7 +164,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
              {
              urlButton: {
                displayText: 'Owner',
-               PhoneNumber: 'https://bit.ly/3FWls1N'
+               PhoneNumber: '6288220118685'
              }
 
            },
